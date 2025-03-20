@@ -1,3 +1,3 @@
-## Hi there 👋
+## Hi everyone👋
 
-###Currently,I'm studing programming languages and getting acquainted with different areas of the IT sphere
+Currently,I'm studing programming languages and getting acquainted with different areas of the IT sphere
